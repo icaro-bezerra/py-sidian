@@ -1,0 +1,190 @@
+,100 Days Note,,,,,,
+,"100 days is just a little over 3 months and I don't believe 3 months is truly sufficent to ""become a data engineer"" or at the very least it feels a little fast. There is no need to rush. The real purpose of this 100 days is to get you into the habit of practicing. If aftwards you want to dig into specific subjects, do that! Don't let this 100 days limit you. ",,,,,,
+,,,,,,,
+,,,,,,,
+Day,Task,Notes,Category,Links,,,
+Day 1,"For day one, what I reccomend is taking the time to answering some questions and write out your plan to commit to the next 100 days on social media or somewhere people can help keep you accontable. A discord group, slack, etc
+1. What do you hope to accomplish by the end of the 100 days
+2. Are there any topics you'd like to learn that aren't covered? 
+",,Take a moment to write your goals,https://discord.gg/2yRJq7Eg3k,,,
+Day 2,"1. Downloading SQL Server And Creating A Tables
+2. Joins
+3. Case Statements
+4. Self Joins And Cross Joins",,SQL,https://www.youtube.com/watch?v=RSlqWnP-Dy8&list=PLDp4ZIFbgTTO8dxL7dNaBxZJY6JzyHHpA&index=1,https://www.youtube.com/watch?v=9URM1_2S0ho&list=PLDp4ZIFbgTTO8dxL7dNaBxZJY6JzyHHpA&index=5,https://www.youtube.com/watch?v=Twusw__OzA8&list=PLDp4ZIFbgTTO8dxL7dNaBxZJY6JzyHHpA&index=7,https://www.interviewquery.com/learning-paths/data-engineering/medium-sql-questions/self-joins-and-cross-joins?ref=sdg
+Day 3,"1. SQL Interview Tips
+2.Solving More Problems With SQL",,SQL,https://www.youtube.com/watch?v=W2L7Q3J-ei0&t=1s,https://www.youtube.com/watch?v=FNYdBLwZ6cE,,
+Day 4,"1. Partition By
+2. CTE (Common Table Expression)
+3. Stored Procedures",,SQL,https://www.youtube.com/watch?v=D6XNlTfglW4&list=PLDp4ZIFbgTTO8dxL7dNaBxZJY6JzyHHpA&index=11,https://www.youtube.com/watch?v=K1WeoKxLZ5o&list=PLDp4ZIFbgTTO8dxL7dNaBxZJY6JzyHHpA&index=12,https://www.youtube.com/watch?v=NrBJmtD0kEw&list=PLDp4ZIFbgTTO8dxL7dNaBxZJY6JzyHHpA&index=15,
+Day 5,"1. Loops Strings And Tuples
+2. Functions
+3. Mutabiltiy 
+4. Error Handling ",,Programming,https://www.youtube.com/watch?v=iv5m0c-8Opc&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=2,https://www.youtube.com/watch?v=8YbIwueDQx4&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=6,https://www.youtube.com/watch?v=xwPWcFKeIac&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=8,https://www.youtube.com/watch?v=BYpSfx7I6x4&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&index=9
+Day 6,Basic Linux Commands 1/3,"This video is quite long, so I've put it over the next three days. So you can watch a little over 1.5 hours a day",Linux,https://www.youtube.com/watch?v=ZtqBQ68cfJc,,,
+Day 7,Basic Linux Commands 2/3,,Linux,https://www.youtube.com/watch?v=ZtqBQ68cfJc,,,
+Day 8,Basic Linux Commands 3/3,,Linux,https://www.youtube.com/watch?v=ZtqBQ68cfJc,,,
+Day 9,"1.Data Modeling Basics
+2.Normalization Vs Denormalization",,Data Model,https://www.youtube.com/watch?v=nof9jYIhv54&t=1s,https://seattledataguy.substack.com/p/normalization-vs-denormalization,,
+Day 10,"Read Chapters 1,2,3 in Kimballs Data Warehousing Toolkit",,Data Model,http://160592857366.free.fr/joe/ebooks/ShareData/The%20Data%20Warehouse%20Toolkit.pdf,,,
+Day 11,What is Data Pipeline | How to design Data Pipeline ? - ETL vs Data pipeline (2023),,Data Pipeline,https://www.youtube.com/watch?v=VtzvF17ysbc,,,
+Day 12,SQL Project Example,,SQL Deeper Dive,https://www.youtube.com/watch?v=qfyynHBFOsM,,,
+Day 13,"1. 262. Trips and Users
+2. Popularity of Hack
+3. Average Salaries
+4. 626. Exchange Seats",,SQL Deeper Dive,https://leetcode.com/problems/trips-and-users/,https://platform.stratascratch.com/coding/10061-popularity-of-hack?via=sdg,https://platform.stratascratch.com/coding/9917-average-salaries?via=sdg,https://leetcode.com/problems/exchange-seats/
+Day 14,"Use the `bigquery-public-data.stackoverflow.*` data set and answer some of the following questions and come up with some of your own
+1. What percentage of stackoverflow questions that ended with a ""?"" had accepted answers
+2. Are there certain programming langauges that are more likely to have accepted answers
+3. Do certain programming languages have questions that get answered more quickly
+4. Do certain programming langauges get more answers on average than others?","1. What questions can you answer using this data set?
+2. Are there places you can join the data set?
+3. Write out 10 questions you think you can answer",SQL Deeper Dive,#REF!,,,
+Day 15,Continue from yesterday with new questions. Come up with some of your own?,,SQL Deeper Dive,#REF!,,,
+Day 16,AWS Certificate Prep,"This video is a a 10 hour video, I'd reccomend you break it down into 2 hour segments over the next few days. You should also take notes and share them. Also, another benefit here is if you feel confident, you might be able to consider taking a cert once you're done with this set of videos and some of the projects",Cloud,https://www.youtube.com/watch?v=Ia-UEYYR44s,,,
+Day 17,AWS Certificate Prep,,Cloud,https://www.youtube.com/watch?v=Ia-UEYYR44s,,,
+Day 18,AWS Certificate Prep,,Cloud,https://www.youtube.com/watch?v=Ia-UEYYR44s,,,
+Day 19,AWS Certificate Prep,,Cloud,https://www.youtube.com/watch?v=Ia-UEYYR44s,,,
+Day 20,AWS Certificate Prep,,Cloud,https://www.youtube.com/watch?v=Ia-UEYYR44s,,,
+Day 21,"1. GCP Intro
+2. GCP and VPC
+3. GCP IAM",,Cloud,https://www.youtube.com/watch?v=-K9WW3tKNWk&list=PLcnJIHtHiTA2Jp3klIkeHiwqGrxjXBzh6&index=4,https://www.youtube.com/watch?v=wFh30r9K_vk&list=PLcnJIHtHiTA2Jp3klIkeHiwqGrxjXBzh6&index=9,https://www.youtube.com/watch?v=PjBhIDOdLM0&list=PLcnJIHtHiTA2Jp3klIkeHiwqGrxjXBzh6&index=10,
+Day 22,"1. GCP Bigquery
+2. GCP Cloud Composer",,Cloud,https://www.youtube.com/watch?v=Wx-aEcTf2h4&list=PLcnJIHtHiTA2Jp3klIkeHiwqGrxjXBzh6&index=7,https://www.youtube.com/watch?v=g6Fmrmh8C20,,
+Day 23,"1. Azure Vocab
+2. Azure Opex Vs Capex
+3. Azure Geographics And Regions
+4. Azure Basic Compute Services",,Cloud,https://www.youtube.com/watch?v=Pt9LelJ0fL0&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=2,https://www.youtube.com/watch?v=7KEygnLtRyE&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=4,https://www.youtube.com/watch?v=C-nNw1mGwzE&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=8,https://www.youtube.com/watch?v=inaXkN2UrFE&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=10
+Day 24,"1. Azure Private Networks And VPCs
+2. Azure Storage
+3. Azure Big Data Services
+4. Azure Serverless Computing",,Cloud,https://www.youtube.com/watch?v=5NMcM4zJPM4&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=11,https://www.youtube.com/watch?v=_Qlkvd4ZQuo&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=12,https://www.youtube.com/watch?v=JUQXx0R0RfE&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=16,https://www.youtube.com/watch?v=ansa4M7iTmg&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=18
+Day 25,"1. Data Structures And Algorithms Review Chapters 1-5
+2. Introduction to Linked Lists (Data Structures & Algorithms #5)
+3.Introduction to Recursion (Data Structures & Algorithms #6)
+",,Programming,https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf,https://www.youtube.com/watch?v=WwfhLC16bis&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=5,https://www.youtube.com/watch?v=B0NtAFf4bvU&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=6,
+Day 26,"1.Data Structures And Algorithms Review Chapters 8-11
+2 Big O Notation
+",,Programming,https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf,https://www.youtube.com/watch?v=D6xkbGLQesk&t=1s,https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf,
+Day 27,"1. WEB SCRAPING
+2. Reading CSVs, JSON And APIs","Go through this article and if you have time, and then if you have time see if you have time to start a project",Programming,https://automatetheboringstuff.com/2e/chapter12/,https://automatetheboringstuff.com/2e/chapter16/,,
+Day 28,"Keeping time, scheduling, tasks and launching programs",,Programming,https://automatetheboringstuff.com/2e/chapter17/,,,
+Day 29,"Programming Your Own Thing
+Using the prior few days readings, try coming up with some small mini projects. Perhaps you can automate a task such as scraping a website, or hitting and API. But take your time and enjoy some free time just trying things out for yourself",,Programming,#REF!,,,
+Day 30,"1. Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF
+2. Logical Data Model",,Data Model,https://www.youtube.com/watch?v=GFQaEYEc8_8,https://www.youtube.com/watch?v=ZBgXb66Ckz0,,
+Day 31,"1. Database Denormalization
+2. Article TBD(I'll be writing one shortly)",,Data Model,https://www.youtube.com/watch?v=4bTq0GdSeQs,,,
+Day 32,"Read Chapters 4,5,6 in Kimballs Data Warehousing Toolkit",,Data Warehousing,http://160592857366.free.fr/joe/ebooks/ShareData/The%20Data%20Warehouse%20Toolkit.pdf,,,
+Day 33,"Agile Data Warehouse Chapters 1,2(and if time 3)",,Data Warehousing,https://books.google.com/books/about/Agile_Data_Warehouse_Design.html?id=TRWFmnv8jP0C&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1#v=onepage&q&f=false,,,
+Day 34,"1. What Is A Data Pipeline
+2. ETLs, Data Pipelines, Etc",,Data pipelines,https://www.youtube.com/watch?v=5P2luRwaKek&t=2s,https://www.youtube.com/watch?v=VtzvF17ysbc,,
+Day 35,Basic Data Pipeline Project,,Data pipelines,https://www.youtube.com/watch?v=WpQECq5Hx9g,,,
+Day 36,Live QA And Pipeline Sign Up,I'll be running a QA on the 36th day(or so) that should be the 7th of February. We can use it as a time for people to ask questions and then I'll attach a link the the live in the future,Progress Review And QA,https://forms.gle/28KdRuK9zNTqqoZj7,,,
+Day 37,"At this point you may need some time to catch up. If that's the case, then the next three days can be used for that. But if you have the time, here are some articles and videos
+1. What Is Query Driven Modeling
+2. What Is Change Data Capture
+3. Stateful Streaming",,Catch Up,https://seattledataguy.substack.com/p/what-is-query-driven-data-modeling,https://seattledataguy.substack.com/p/what-is-change-data-capture,https://estuary.dev/stateful-stream-processing/,
+Day 38,"1. Airflow Is Not An ETL Tool
+2. Databricks Vs Snowflake
+3. Data Engineering Vocab",,Catch Up,https://eponkratova.medium.com/airflow-is-not-an-etl-tool-bfa82d20f31e,https://www.youtube.com/watch?v=VLtq0eeHc14&t=2s,https://www.youtube.com/watch?v=S5zQh2Gw1Tw&t=4s,
+Day 39,"1. Why Is Data Engineering Important
+2. MongoDb Is Not For Analytics",,Catch Up,https://www.youtube.com/watch?v=TDbjd6Wl6TI&list=PLXRKPZRrlvE6chKJl5jxcZHIeCOPl_bfz&index=2,https://seattledataguy.substack.com/p/mongodb-is-great-for-analytics-until,,
+Day 40,"At the end of day 40, you should take a moment and review what you have learned overall(otherwise you'll forget all of your hard work)",,Write A Review,#REF!,,,
+Day 41,Read How To Start Your Next Data Engineering Project,,Mini Project,https://seattledataguy.substack.com/p/how-to-start-your-next-data-engineering,,,
+Day 42,"1. Pick a data source, (also you can find some more here and here)
+2. Write out 10-15 questions you'd like to answer
+3. Select 3 or 4 of those questions as the ones you'll focus on
+4. Design a basic dashboard you can build in 2-3 days based on the questions(pick a solution like Tableau, Powerbi, or easy to work with dashboarding solution)
+5. Pick a data storage solution to use like Snowflake, Postgres, etc
+6. Kick-off your project",,Mini Project,https://www.youtube.com/watch?v=LJkVvNWlO0g,https://www.youtube.com/watch?v=PExdWWcxmro,https://www.dataquest.io/blog/free-datasets-for-projects/,
+Day 43,"1. Load your data into your data storage system
+2. Perform a general EDA to understand what your data looks like, either with SQL or Python
+3. Answer your questions from day 1
+4. Write up your current progress and note down which code or SQL is actually going to be used",,Mini Project,#REF!,,,
+Day 44,"1. You should hopefully have an idea of the data properties so you can create a basic data model and the queries required ot create it
+2. Create a process that automate those queries, either using Cron or some other form of scheduler
+3. Create a layer that can be used for the analytics(aggregate tables, views, etc)",,Mini Project,#REF!,,,
+Day 45,Continue with any uncompleted tasks from the past few days,,Mini Project,#REF!,,,
+Day 46,Run some basic data quality checks to ensure your data is accurate,,Mini Project,#REF!,,,
+Day 47,Start to create your dashboard and populate it,,Mini Project,#REF!,,,
+Day 48,Finish Dashboard,,Mini Project,#REF!,,,
+Day 49,Run some final QA and decide how you'd like to display this project(also general catchup),,Mini Project,#REF!,,,
+Day 50,"Write a blog, post or create a github repo to share your project",,Mini Project,#REF!,,,
+Day 51,Video To Be Filmed By Seattle Data Guy,,Tool Intro,#REF!,,,
+Day 52,"1. What Is Apache Spark
+2. Downloading And Working With Spark
+3. Quickstart Spark",,Spark,https://www.youtube.com/watch?v=ymtq8yjmD9I,https://spark.apache.org/docs/latest/,https://spark.apache.org/docs/latest/quick-start.html,
+Day 53,"1. RDD Programming
+2. Pyspark Tutorial",,Spark,https://spark.apache.org/docs/latest/rdd-programming-guide.html,https://www.youtube.com/watch?v=QLQsW8VbTN4,,
+Day 54,Long Pyspark Tutorial,,Spark,https://www.youtube.com/watch?v=_C8kWso4ne4,,,
+Day 55,"1. Docker Intro And Setting Up Airflow
+2. Docker In An Hour",,Docker,https://www.youtube.com/watch?v=oVKuwk8xY38,https://www.youtube.com/watch?v=pTFZFxd4hOI,,
+Day 56,"1. Airflow Intro
+2. Airflow Tutorial 2 hour walk through",,Airflow,https://www.youtube.com/watch?v=IH1-0hwFZRQ,https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT,,
+Day 57,"1.Set-up Airflow yourself on an ec2 instance
+2. Set-up basic DAG that pulls data from a one of these data sources(TODO)",,Airflow,#REF!,,,
+Day 58,"1. Challenges You Will Face With Airflow
+2. Common Mistakes You'll Make Setting Up Airflow",,Airflow,https://www.youtube.com/watch?v=h5X3124R61U,https://www.youtube.com/watch?v=gkKY6Q3GApw,,
+Day 59,"Take some time to review what you've learned thus far or take some time off! Here are some other things you could do.
+1. Write about what you've learned, and what you still don't understand
+2. Find a friend who you can teach some of the concepts you've learned(teaching is a great way to learn)",,Catch Up and Review,#REF!,,,
+Day 60,Same as the prior day,,Catch Up and Review,#REF!,,,
+Day 61,"1. Intro To Databricks
+2. Setting Up Databricks
+3. Load Data Into Databricks",,Databricks,https://www.youtube.com/watch?v=QNdiGZFaUFs&t=21s,https://docs.databricks.com/en/getting-started/index.html,https://docs.databricks.com/en/ingestion/index.html,
+Day 62,"1. Databricks Delta Table
+2. Databricks Delta Table Video",,Databricks,https://docs.databricks.com/en/delta/tutorial.html,https://www.youtube.com/watch?v=PIFL7W3DmaY,,
+Day 63,"1.What Is Trino
+2. Setting Up Trino ",,Trino/Presto,https://seattledataguy.substack.com/p/what-is-trino-and-why-is-it-great?utm_source=%2Fsearch%2Ftrino&utm_medium=reader2,https://janakiev.com/blog/presto-cluster/,,
+Day 64,Continue setting up trino and working with it,,,#REF!,,,
+Day 65,Data Governance Book,,Data Governance,https://www.oreilly.com/library/view/data-governance-the/9781492063483/,,,
+Day 66,Data Governance Live - Sign Up,,Data Governance,https://docs.google.com/forms/d/1kZhSlyLY8qbuOO8l2posxGSQvyw0Cixbu6jyVQjRgXg/edit,,,
+Day 67,"1.Creating A Data Governance Framework
+2.Data Governance for Modern Organizations, Part 1
+",,Data Governance,https://www.immuta.com/blog/guide-to-data-governance-frameworks/,https://www.selectstar.com/blog/data-governance-for-modern-organizations-part-1,,
+Day 68,"1. What Is A Data Catalog
+2. Data Catalog Case Study
+3. Datahub Purpose And Architecture ",,Data Catalogs And Lineage,https://www.youtube.com/watch?v=syN4rGwE0rg,https://www.selectstar.com/case-studies/select-stars-automated-data-catalog-helps-anvyl-to-find-its-most-valuable-data,https://www.altexsoft.com/blog/data-hub/,
+Day 69,"1. 6 Pillars Of Data Quality
+2. How And Why We Need To Implement Data Quality Now!
+3. Data Quality And Examples",,Data Quality ,https://www.ibm.com/blog/6-pillars-of-data-quality-and-how-to-improve-your-data/,https://seattledataguy.substack.com/p/how-and-why-we-need-to-implement,https://estuary.dev/data-quality/,
+Day 70,"1. Data Quality Examples With SQL
+2. Data Quality With DBT",,Data Quality ,https://www.telm.ai/blog/sql-data-quality-checks/,https://www.mage.ai/blog/testing-and-documentation-in-dbt-ensuring-data-quality-and-accessibility,,
+Day 71,"Start your own project
+1. Pick a data set you can pull
+2. Plan out what questions you'd like to answer(List out 10-15 questions you'd like to answer)
+3. Pick 4-5 of those questions to focus on
+3. Start to plan out how you'll serve up the data/insights(dashboard, ML, application, etc)
+4. Decide on some tools you'd like to use",,Project Planning,#REF!,,,
+Day 72,"1. Set-up your infrastructure, Cloud components, Airflow, etc
+2. Set-up any database/storage system you will use
+
+",,,#REF!,,,
+Day 73,"From here, you'll likely need to take this project on yourself. Create a project plan for the next 30 or so days. It doesn't have to take all of the next few days. But really look at this as a time you can learn and try out lots of ideas. But for the most part you'll take on a similar approach. Set-up your infrastructure, load your data, analyze it, figure out what you'd like to display, etc",,,#REF!,,,
+Day 74,Run the project as you've planned out,,,#REF!,,,
+Day 75,,,,#REF!,,,
+Day 76,,,,#REF!,,,
+Day 77,,,,#REF!,,,
+Day 78,,,,#REF!,,,
+Day 79,,,,#REF!,,,
+Day 80,,,,#REF!,,,
+Day 81,,,,#REF!,,,
+Day 82,,,,#REF!,,,
+Day 83,,,,#REF!,,,
+Day 84,,,,#REF!,,,
+Day 85,,,,#REF!,,,
+Day 86,,,,#REF!,,,
+Day 87,,,,#REF!,,,
+Day 88,,,,#REF!,,,
+Day 89,,,,#REF!,,,
+Day 90,,,,#REF!,,,
+Day 91,,,,#REF!,,,
+Day 92,,,,#REF!,,,
+Day 93,,,,#REF!,,,
+Day 94,,,,#REF!,,,
+Day 95,,,,#REF!,,,
+Day 96,,,,#REF!,,,
+Day 97,,,,#REF!,,,
+Day 98,,,,#REF!,,,
+Day 99,,,,#REF!,,,
+Day 100,"Write a blog, post or create a github repo to share your project",,,#REF!,,,
